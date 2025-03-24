@@ -1,0 +1,242 @@
+GÉOBUS 4.0.378.4
+INTERNET
+
+Circuit : 223
+
+C.S. des Premières-Seigneuries
+Avis aux transporteurs
+Changements des circuits
+
+Véhicule : Autobus
+
+AUTOBUS BEAUPRE INC (823-2487)
+
+Transporteur :
+
+C000003405
+
+AUTOBUS BEAUPRÉ INC.
+
+PARCOURS DU CIRCUIT :
+*
+*
+
+AM
+AM
+PM
+
+03401
+51504
+51504
+
+Page
+1
+2025-02-19 9:21
+2024-2025 (0)
+
+Contrat
+
+Rangées
+
+3405
+
+12
+
+Début
+
+BEAUX-PRÉS- FALAISE / ROLAND
+ACADÉMIE/SAMUEL - COTE BEAUPRÉ
+ACADÉMIE/SAMUEL - COTE BEAUPRÉ
+
+07:08
+07:50
+16:22
+
+Distance :
+Durée :
+
+Fin
+
+Productif
+91259
+195,25
+
+Distance
+
+07:45
+09:10
+17:39
+
+Improd.
+2685
+8,44
+
+Durée
+
+10500
+39245
+41514
+
+Totale
+93944
+204,09
+
+Occ. maximum
+
+37,45
+80,11
+77,29
+
+55
+44
+44
+
+PARCOURS AJOUTÉS OU MODIFIÉS :
+AM 51504 ACADÉMIE/SAMUEL - COTE BEAUPRÉ
+
+Début : 07:50
+09:10
+
+Fin :
+
+Distance :
+
+39245 Occ. totale :
+
+44
+
+Durée :
+
+80,11 Occ. max. :
+
+64
+
+Points de service
+Heure Emb
+ARR EXT132
+Élève
+
+Ordre d'ens.
+
++ Drouin, Mathéo
+ARR EXT102
+
+-
+
+07:50
+
+ROYALE / SAINT-LOUIS (BEAUPRÉ)
+
+12
+
+Ordre d'ens.
+
+Drouin, Mathéo
+
+Secondaire
+
+PM 51504 ACADÉMIE/SAMUEL - COTE BEAUPRÉ
+
+Date début
+Date début
+
+11323, Avenue Royale Beaupré
+G0A 1E0
+
+08:43
+
+Élève
+
+Stationnement
+
+0
+
+GPar Adresse
+
+Secondaire
+
+ÉGLISE L'ANGE-GARDIEN (STATIONNEMENT)
+
+Déb
+
+4
+
+0
+Date début
+
+GPar Adresse
+6354, Avenue Royale L'AngeGardien G0A 2K0
+Début : 16:22
+17:39
+
+Fin :
+
+Distance :
+
+41514 Occ. totale :
+
+44
+
+Durée :
+
+77,29 Occ. max. :
+
+66
+
+Points de service
+Heure Emb
+ARR EXT102
+
+-
+
+ÉGLISE L'ANGE-GARDIEN (STATIONNEMENT)
+
+16:57
+
+Élève
+
+Ordre d'ens.
+
+Drouin, Mathéo
+
+Secondaire
+
+ARR EXT132
+
+ROYALE / SAINT-LOUIS (BEAUPRÉ)
+
+Élève
+
++ Drouin, Mathéo
+
+17:39
+Ordre d'ens.
+Secondaire
+
+0
+
+Déb
+
+Stationnement
+
+Date début
+
+4
+
+GPar Adresse
+
+Date début
+
+6354, Avenue Royale L'AngeGardien G0A 2K0
+
+0
+
+12
+
+GPar Adresse
+11323, Avenue Royale Beaupré
+G0A 1E0
+
+Date début
+
+
