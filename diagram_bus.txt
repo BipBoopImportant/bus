@@ -1,0 +1,76 @@
+┌─────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                                         GÉOBUS 4.0.364.9                                            │
+│                               C.S. des Premières-Seigneuries                                        │
+│                              Impression des parcours - Transporteurs                                 │
+└───────────────────────────────────────────────┬─────────────────────────────────────────────────────┘
+                                                │
+            ┌───────────────────────────────────┼───────────────────────────────────┐
+            │                                   │                                   │
+            ▼                                   ▼                                   ▼
+┌───────────────────────────┐      ┌───────────────────────────┐      ┌───────────────────────────┐
+│     DOCUMENT METADATA     │      │    ROUTE INFORMATION      │      │   COMPANY INFORMATION     │
+├───────────────────────────┤      ├───────────────────────────┤      ├───────────────────────────┤
+│• Software: GÉOBUS 4.0.364.9│      │• Circuit: 223             │      │• Transporteur: AUTOBUS    │
+│• School Board: C.S. des    │      │• Direction: AM            │      │  BEAUPRÉ INC.            │
+│  Premières-Seigneuries     │      │• Date: 2024-09-26         │      │• Code: 03401             │
+│• Document Type: Impression │      │• Time Period: 2024-2025   │      │                           │
+│  des parcours              │      │• Start Time: 07:08        │      │                           │
+│• Generated: 2024-09-26     │      │• End Time: 07:45          │      │                           │
+│                           │      │• Distance: 10500 meters    │      │                           │
+│                           │      │• Occupancy: 52 students    │      │                           │
+└───────────────────────────┘      └─────────────┬─────────────┘      └───────────────────────────┘
+                                                 │
+                  ┌────────────────────────────┬─┴───────────────────────────────┐
+                  │                            │                                 │
+                  ▼                            ▼                                 ▼
+┌────────────────────────────┐   ┌─────────────────────────┐   ┌─────────────────────────────────────┐
+│     ROUTE COMPONENTS       │   │   DETAILED STOP LIST    │   │      STUDENT INFORMATION            │
+│     (PRESENT IN FILE)      │   │                         │   │                                     │
+├────────────────────────────┤   ├─────────────────────────┤   ├─────────────────────────────────────┤
+│• AM Route (Morning)        │   │1. 07:08 - DES VERBOURGS/│   │• Individual Student Records:        │
+│  (Home → School)           │   │   CLÉ-DES-CHAMPS NORD   │   │  - Full Name                       │
+│  Confirmed in excerpt      │   │   (1 student)           │   │  - Education Level (e.g., Primaire) │
+│                            │   │2. 07:17 - DE LA FALAISE/│   │  - Grade Level (e.g., 3 ième cycle) │
+└────────────────────────────┘   │   DU RAVIN (4 students) │   │  - Year within Cycle (e.g., an 1)   │
+                                 │3. 07:19 - DE LA FALAISE/│   │  - Home Address                     │
+┌────────────────────────────┐   │   DE L'ANSE (EST)       │   │  - Postal Code                      │
+│     ROUTE COMPONENTS       │   │   (10 students)         │   │                                     │
+│  (LIKELY EXIST IN SYSTEM   │   │4. 07:21 - DE LA FALAISE/│   │• Embarkation Information:           │
+│   BUT NOT IN EXCERPT)      │   │   DE L'ANSE (OUEST)     │   │  - Emb: Number boarding at stop    │
+├────────────────────────────┤   │   (6 students)          │   │  - Déb: Running total on bus       │
+│• PM Route (Afternoon)      │   │5. 07:26 - 280, DE       │   │                                     │
+│  (School → Home)           │   │   L'ÉRABLIÈRE (4 studs) │   │• Special Requirements:              │
+│                            │   │6. 07:27 - COTEAUX/      │   │  - GPar (appears to be grouping     │
+│• Transfer Points (TRSF)    │   │   PETITE-SAVANE (2 stud)│   │    or parent information)           │
+│  (Connection locations)    │   │7. 07:29 - DE LA SEIGN./ │   │                                     │
+│                            │   │   SAINT-ÉMILE (5 studs) │   └─────────────────────────────────────┘
+│• Special Routes            │   │8. 07:32 - 66, DE LA     │
+│  (Events, alternate        │   │   SEIGNEURIE (3 studs)  │   ┌─────────────────────────────────────┐
+│   schedules, etc.)         │   │9. 07:33 - LA SEIGNEURIE/│   │      REFERENCE ABBREVIATIONS        │
+└────────────────────────────┘   │   DE L'ESPLANADE (1 std)│   ├─────────────────────────────────────┤
+                                 │10.07:37 - ROLAND/       │   │• ARR: Arrêt (Bus Stop)              │
+                                 │   SAINT-ANDRÉ (1 stud)  │   │• BAT: Bâtiment (Building/School)    │
+                                 │11.07:38 - SAINT-LOUIS/  │   │• Emb: Embarquement (Boarding)       │
+                                 │   SAINT-HENRI (2 studs) │   │• Déb: Débarquement (Total on board) │
+                                 │12.07:40 - DE LA COLLINE │   │• GPar: Likely grouping information  │
+                                 │   SUD/DU BELVÉDÈRE      │   │  or parent/guardian reference       │
+                                 │   (11 students)         │   │                                     │
+                                 │13.07:43 - DOM Beaupré   │   │                                     │
+                                 │   St-Jean-Baptiste (1)  │   │                                     │
+                                 └─────────────┬───────────┘   └─────────────────────────────────────┘
+                                               │
+                                               ▼
+                                 ┌─────────────────────────┐
+                                 │      DESTINATION        │
+                                 ├─────────────────────────┤
+                                 │• 07:45 - DES BEAUX-PRÉS │
+                                 │• Building/School (BAT)  │
+                                 │• All 52 students listed │
+                                 │  alphabetically with    │
+                                 │  complete details:      │
+                                 │  - Full Name            │
+                                 │  - Education Level      │
+                                 │  - Grade Level          │
+                                 │  - Home Address         │
+                                 │  - Postal Code          │
+                                 └─────────────────────────┘

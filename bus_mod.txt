@@ -1,0 +1,76 @@
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         GÉOBUS 4.0.378.4                                │
+│              C.S. des Premières-Seigneuries                             │
+│            Avis aux transporteurs - Changements des circuits            │
+└─────────────────────────────────┬───────────────────────────────────────┘
+                                 │
+     ┌─────────────────────────────────────────────────┐
+     │                                                 │
+     ▼                                                 ▼
+┌────────────────────────────┐             ┌────────────────────────────┐
+│    DOCUMENT IDENTIFICATION │             │   TRANSPORTATION COMPANY   │
+├────────────────────────────┤             ├────────────────────────────┤
+│• System: GÉOBUS 4.0.378.4  │             │• Name: AUTOBUS BEAUPRÉ INC.│
+│• Circuit: 223              │             │• Phone: 823-2487           │
+│• Document: Avis aux        │             │• Code: C000003405          │
+│  transporteurs             │             │• Contract: 3405            │
+│• Generated: 2025-02-19 9:21│             │• Vehicle: Autobus          │
+│• School Year: 2024-2025    │             │• Rows (Capacity): 12       │
+└──────────────┬─────────────┘             └─────────────┬──────────────┘
+               │                                         │
+               └─────────────────┬─────────────────────┘
+                                 │
+                                 ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                   CIRCUIT ROUTES OVERVIEW                               │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  ┌───────────────────┐  ┌───────────────────┐  ┌────────────────────┐  │
+│  │ ROUTE 1 (EXISTING)│  │ ROUTE 2 (MODIFIED)│  │ ROUTE 3 (MODIFIED) │  │
+│  ├───────────────────┤  ├───────────────────┤  ├────────────────────┤  │
+│  │• ID: AM 03401     │  │• ID: AM 51504     │  │• ID: PM 51504      │  │
+│  │• Service:         │  │• Service:         │  │• Service:          │  │
+│  │  BEAUX-PRÉS-      │  │  ACADÉMIE/SAMUEL -│  │  ACADÉMIE/SAMUEL - │  │
+│  │  FALAISE / ROLAND │  │  COTE BEAUPRÉ     │  │  COTE BEAUPRÉ      │  │
+│  │• Start: 07:08     │  │• Start: 07:50     │  │• Start: 16:22      │  │
+│  │• End: 07:45       │  │• End: 09:10       │  │• End: 17:39        │  │
+│  │• Distance: 10500 m│  │• Distance: 39245 m│  │• Distance: 41514 m │  │
+│  │• Duration: 37.45  │  │• Duration: 80.11  │  │• Duration: 77.29   │  │
+│  │  minutes          │  │  minutes          │  │  minutes           │  │
+│  │• Max Occupancy: 55│  │• Max Occupancy: 44│  │• Max Occupancy: 44 │  │
+│  └───────────────────┘  └────────┬──────────┘  └─────────┬──────────┘  │
+│                                  │                       │             │
+└──────────────────────────────────┼───────────────────────┼─────────────┘
+                                   │                       │
+           ┌─────────────────────┐ │                       │ ┌─────────────────────┐
+           │                     │ │                       │ │                     │
+           ▼                     │ ▼                       │ ▼                     │
+┌────────────────────┐ ┌─────────────────────┐ ┌─────────────────────┐ ┌────────────────────┐
+│ PRODUCTIVITY STATS │ │ AM ROUTE 2 DETAILS  │ │ PM ROUTE 3 DETAILS  │ │  DISTANCE SUMMARY  │
+├────────────────────┤ │  (MODIFIED)         │ │  (MODIFIED)         │ ├────────────────────┤
+│• Productive Dist:  │ ├─────────────────────┤ ├─────────────────────┤ │• Productive: 91259 │
+│  91259             │ │• Stops:             │ │• Stops:             │ │• Unproductive: 2685│
+│• Unproductive Dist:│ │  1. EXT132 (07:50)  │ │  1. EXT102 (16:57)  │ │• Total: 93944      │
+│  2685              │ │     ROYALE / SAINT- │ │     ÉGLISE L'ANGE-  │ │• Total Duration:   │
+│• Total Minutes:    │ │     LOUIS (BEAUPRÉ) │ │     GARDIEN         │ │  204.09 minutes    │
+│  204.09            │ │  2. EXT102 (08:43)  │ │  2. EXT132 (17:39)  │ │                    │
+│                    │ │     ÉGLISE L'ANGE-  │ │     ROYALE / SAINT- │ │                    │
+│                    │ │     GARDIEN         │ │     LOUIS (BEAUPRÉ) │ │                    │
+└────────────────────┘ └────────┬────────────┘ └────────┬────────────┘ └────────────────────┘
+                               │                        │
+                               │                        │
+                               ▼                        ▼
+                  ┌───────────────────────────────────────────────────┐
+                  │            STUDENT INFORMATION                     │
+                  ├───────────────────────────────────────────────────┤
+                  │• Student: Drouin, Mathéo                          │
+                  │• Education Level: Secondaire                       │
+                  │• AM Pickup: ROYALE / SAINT-LOUIS (BEAUPRÉ)        │
+                  │  11323, Avenue Royale Beaupré G0A 1E0             │
+                  │• PM Dropoff: ROYALE / SAINT-LOUIS (BEAUPRÉ)       │
+                  │  11323, Avenue Royale Beaupré G0A 1E0             │
+                  │                                                    │
+                  │• Transfer Point: ÉGLISE L'ANGE-GARDIEN            │
+                  │  6354, Avenue Royale L'Ange-Gardien G0A 2K0       │
+                  │  (morning and afternoon)                           │
+                  └───────────────────────────────────────────────────┘
