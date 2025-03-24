@@ -1,0 +1,4145 @@
+GÉOBUS 4.0.364.9
+INTERNET
+
+Parcours :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AM
+
+Transporteur :
+
+03401
+
+Circuit :
+
+223
+
+Page
+1
+2024-09-26 10:12
+2024-2025 (0)
+
+Heure de début : 07:08
+Heure de fin :
+07:45
+
+AUTOBUS BEAUPRÉ INC.
+
+Distance :
+
+10500
+
+Occupation :
+
+52
+
+POINTS DE SERVICE
+
+ARR
+
+DES VERBOURGS / CLÉ-DES-CHAMPS NORD
+Ordre d'ens.
+
+Élève
+
+Lambert, Hope
+
+ARR
+
+Primaire
+
+GPar
+
+3 ième cycle, an 1
+
+Classe
+
+Emb.
+
+Déb.
+
+07:08
+
+1
+
+0
+
+Adresse
+
+Tel. résidence
+
+128, Rue de l'escapade Sainte-Anne-de-Beaupré G0A 3C0
+
+DE LA FALAISE / DU RAVIN
+Ordre d'ens.
+
+Élève
+
+Classe
+
+Heure
+
+07:17
+GPar
+
+Adresse
+
+Primaire
+
+3 ième cycle, an 2
+
+15, Rue du Ravin Beaupré G0A 1E0
+
+Duclos, Charles
+
+Primaire
+
+2 ième cycle, an 2
+
+40, Rue du Ravin Beaupré G0A 1E0
+
+Paquet, Samuel
+
+Primaire
+
+3 ième cycle, an 2
+
+130, Rue de la Falaise Beaupré G0A 1E0
+
+Simard, Samuel
+
+Primaire
+
+3 ième cycle, an 2
+
+35, Rue du Ravin Beaupré G0A 1E0
+
+DE LA FALAISE / DE L'ANSE (EST)
+Ordre d'ens.
+
+Élève
+
+Classe
+
+07:19
+GPar
+
+3 ième cycle, an 2
+
+35, Rue de l'Anse Beaupré G0A 1E0
+
+Desrochers, Rose
+
+Primaire
+
+3 ième cycle, an 1
+
+35, Rue de l'Anse Beaupré G0A 1E0
+
+Dubeau, Alicia-Rose
+
+Primaire
+
+3 ième cycle, an 1
+
+20, Rue de l'Anse Beaupré G0A 1E0
+
+Dubeau, Léana
+
+Primaire
+
+2 ième cycle, an 1
+
+20, Rue de l'Anse Beaupré G0A 1E0
+
+Patry, Edouard
+
+Primaire
+
+2 ième cycle, an 1
+
+70, Rue de L'Anse Beaupré G0A 1E0
+
+Patry, Florence
+
+Primaire
+
+1er cycle, an 1
+
+70, Rue de l'Anse Beaupré G0A 1E0
+
+Patry, Georges
+
+Primaire
+
+3 ième cycle, an 1
+
+70, Rue de L'Anse Beaupré G0A 1E0
+
+Roberge, Clémence
+
+Primaire
+
+3 ième cycle, an 1
+
+5, Rue de L'Anse Beaupré G0A 1E0
+
+Tremblay, Gabriel
+
+Primaire
+
+3 ième cycle, an 2
+
+25, Rue de l'Anse Beaupré G0A 1E0
+
+Tremblay, Maélia
+
+Primaire
+
+2 ième cycle, an 2
+
+25, Rue de l'Anse Beaupré G0A 1E0
+
+DE LA FALAISE / DE L'ANSE (OUEST)
+Ordre d'ens.
+
+Classe
+
+07:21
+GPar
+
+0
+
+Tel. résidence
+
+Primaire
+
+Élève
+
+10
+
+Adresse
+
+Desrochers, Gabriel
+
+ARR
+
+0
+
+Tel. résidence
+
+Dessureault, Félix
+
+ARR
+
+4
+
+Adresse
+
+Boutet, Logan
+
+Primaire
+
+3 ième cycle, an 2
+
+130, Rue de l'Anse Beaupré G0A 1E0
+
+Cyr, Romane
+
+Primaire
+
+3 ième cycle, an 2
+
+45, Rue de l'Anse Beaupré G0A 1E0
+
+Dorval, Violette
+
+Primaire
+
+1er cycle, an 1
+
+40, Rue Des Aulnes Beaupré G0A 1E0
+
+Fortin, Jacob
+
+Primaire
+
+2 ième cycle, an 1
+
+65, Rue de l'Anse Beaupré G0A 1E0
+
+Landry, Alyssia
+
+Primaire
+
+1er cycle, an 2
+
+55, Rue de l'Anse Beaupré G0A 1E0
+
+6
+
+0
+
+Tel. résidence
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+2
+2024-09-26 10:12
+2024-2025 (0)
+
+223 AM 03401
+
+(suite)
+ARR
+
+DE LA FALAISE / DE L'ANSE (OUEST)
+Ordre d'ens.
+
+Élève
+
+Landry, Loïc
+
+Primaire
+
+ARR
+
+Classe
+
+GPar
+
+2 ième cycle, an 1
+
+Heure
+
+Emb.
+
+Déb.
+
+07:21
+
+6
+
+0
+
+Adresse
+
+Tel. résidence
+
+55, Rue de l'Anse Beaupré G0A 1E0
+
+280, DE L'ÉRABLIÈRE
+
+07:26
+
+Ordre d'ens.
+
+Élève
+
+Classe
+
+GPar
+
+1er cycle, an 1
+
+300, Rue de l'Érablière Beaupré G0A 1E0
+
+Racine, Marily
+
+Primaire
+
+3 ième cycle, an 1
+
+280, Rue de l'Érablière Beaupré G0A 1E0
+
+St-Gelais, Samuel
+
+Primaire
+
+2 ième cycle, an 2
+
+295, Rue de l'Érablière Beaupré G0A 1E0
+
+St-Gelais, Steven
+
+Primaire
+
+2 ième cycle, an 1
+
+295, Rue de l'Érablière Beaupré G0A 1E0
+
+COTEAUX / PETITE-SAVANE
+Ordre d'ens.
+
+Classe
+
+07:27
+GPar
+
+2
+
+Adresse
+
+Primaire
+
+1er cycle, an 1
+
+20, Rue de la Petite Savane Beaupré G0A 1E0
+
+Lajoie, Éléonore
+
+Primaire
+
+2 ième cycle, an 2
+
+20, Rue de la Petite Savane Beaupré G0A 1E0
+
+DE LA SEIGNEURIE / SAINT-ÉMILE
+Ordre d'ens.
+
+Élève
+
+Classe
+
+07:29
+GPar
+
+Hains, Arïa
+
+Première
+Préscolaire 5 ans
+
+Hains, Isaïa
+
+Primaire
+
+1er cycle, an 2
+
+235, Rue Saint-Émile Beaupré G0A 1E0
+
+Hains, Safïa
+
+Primaire
+
+1er cycle, an 1
+
+235, Rue Saint-Emile Beaupré G0A 1E0
+
+Lévesque-Pérusse, Loucas
+
+Primaire
+
+3 ième cycle, an 2
+
+6, Rue Seigneurie Beaupré G0A 1E0
+
+Paquet, Penelope
+
+Première
+Préscolaire 5 ans
+
+6, Rue de la Seigneurie Beaupré G0A 1E0
+235, Rue Saint-Emile Beaupré G0A 1E0
+
+225, Rue Saint-Emile Beaupré G0A 1E0
+
+66, DE LA SEIGNEURIE
+Ordre d'ens.
+
+07:32
+Classe
+
+GPar
+
+3
+
+Adresse
+
+Primaire
+
+2 ième cycle, an 2
+
+60, Rue de la Seigneurie Beaupré G0A 1E0
+
+Tremblay, Gaspard
+
+Primaire
+
+3 ième cycle, an 2
+
+60, Rue de la Seigneurie Beaupré G0A 1E0
+
+Tremblay, Isaac
+
+Primaire
+
+2 ième cycle, an 1
+
+60, Rue de la Seigneurie Beaupré G0A 1E0
+
+Élève
+
+Lachance, Louis-Félix
+
+LA SEIGNEURIE / DE L'ESPLANADE
+Ordre d'ens.
+
+Primaire
+
+Classe
+
+1er cycle, an 2
+
+07:33
+GPar
+
+0
+
+Tel. résidence
+
+Tremblay, Arthur
+
+ARR
+
+0
+
+Tel. résidence
+
+Primaire
+
+Élève
+
+6
+
+Adresse
+
+Beaumont, Michael
+
+ARR
+
+1er cycle, an 2
+
+0
+
+Tel. résidence
+
+Lajoie, Anaée
+
+ARR
+
+0
+
+Tel. résidence
+
+Primaire
+
+Élève
+
+4
+
+Adresse
+
+Poulin, Léonard
+
+ARR
+
+(suite)
+
+1
+
+Adresse
+
+18, Rue de la Seigneurie Beaupré G0A 1E0
+
+0
+
+Tel. résidence
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+ARR
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+223 AM 03401
+
+ROLAND / SAINT-ANDRÉ
+Ordre d'ens.
+
+Élève
+
+Côté, Malik
+
+Primaire
+
+ARR
+
+Circuit :
+
+Page
+3
+2024-09-26 10:12
+2024-2025 (0)
+
+Classe
+
+GPar
+
+1er cycle, an 1
+
+Ordre d'ens.
+
+Classe
+
+Heure
+
+Emb.
+
+Déb.
+
+07:37
+
+1
+
+0
+
+Adresse
+
+Tel. résidence
+
+262, Rue Saint-André Beaupré G0A 1E0
+
+SAINT-LOUIS / SAINT-HENRI
+
+Élève
+
+(suite)
+
+07:38
+GPar
+
+2
+
+Adresse
+
+Tel. résidence
+
+Mennesson Boucher, Laetitia
+
+Primaire
+
+1er cycle, an 1
+
+264, Rue Saint-Louis Beaupré G0A 1E0
+
+Richard, Jamylia
+
+Primaire
+
+1er cycle, an 1
+
+240, Rue St-Jean-Baptiste Beaupré G0A 1E0
+
+ARR
+
+DE LA COLLINE SUD / DU BELVÉDÈRE
+Ordre d'ens.
+
+Élève
+
+Classe
+
+07:40
+GPar
+
+11
+
+Adresse
+
+Primaire
+
+3 ième cycle, an 1
+
+260, Rue de la Colline app. 1 Beaupré G0A 1E0
+
+Dégarie, Noah
+
+Primaire
+
+1er cycle, an 2
+
+205, Rue de la Colline app. 2 Beaupré G0A 1E0
+
+Dufour Coulombe, Daphnée
+
+Primaire
+
+2 ième cycle, an 2
+
+240, Rue de la Colline Beaupré G0A 1E0
+
+Dufour Coulombe, Dereck
+
+Primaire
+
+2 ième cycle, an 2
+
+240, Rue de la Colline Beaupré G0A 1E0
+
+Dussault, Lucciano
+
+Première
+Préscolaire 5 ans
+
+230, Rue De la Colline app. 1 Beaupré G0A 1E0
+
+Gomez Segura, Caleb Deivis
+
+Première
+Préscolaire 4 ans
+
+260, Rue De la Colline app. 1 Beaupré G0A 1E0
+
+Ivorra, Zoé
+
+Primaire
+
+2 ième cycle, an 1
+
+215, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Joyal, Irlande-Aube
+
+Primaire
+
+3 ième cycle, an 1
+
+230, Rue de la Colline app. 4 Beaupré G0A 1E0
+
+Lachance, Charlie-Rose
+
+Primaire
+
+3 ième cycle, an 1
+
+270, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Lachance, Edward
+
+Primaire
+
+1er cycle, an 1
+
+270, Rue de la Colline app. 3 Beaupré G0A 1E0
+250, Rue de la Colline Beaupré G0A 1E0
+
+DOM Beaupré Saint-Jean-Baptiste (226)
+Ordre d'ens.
+
+Élève
+
+Lamizana, Talia
+
+BAT
+
+Classe
+
+07:43
+GPar
+
+Première
+Préscolaire 5 ans
+
+Ordre d'ens.
+
+0
+
+Tel. résidence
+
+226, Rue Saint-Jean-Baptiste Beaupré G0A 1E0
+
+07:45
+Classe
+
+1
+
+Adresse
+
+DES BEAUX-PRÉS
+
+Élève
+
+0
+
+Tel. résidence
+
+Aldeano Segura, Jade Joselis
+
+Salazar de la Cruz, Geraldinne Ivanna
+Première
+Préscolaire 5 ans
+
+0
+
+GPar
+
+0
+
+Adresse
+
+Aldeano Segura, Jade Joselis
+
+Primaire
+
+3 ième cycle, an 1
+
+260, Rue de la Colline app. 1 Beaupré G0A 1E0
+
+Beaumont, Michael
+
+Primaire
+
+1er cycle, an 2
+
+6, Rue de la Seigneurie Beaupré G0A 1E0
+
+Boutet, Logan
+
+Primaire
+
+3 ième cycle, an 2
+
+130, Rue de l'Anse Beaupré G0A 1E0
+
+Côté, Malik
+
+Primaire
+
+1er cycle, an 1
+
+262, Rue Saint-André Beaupré G0A 1E0
+
+Cyr, Romane
+
+Primaire
+
+3 ième cycle, an 2
+
+45, Rue de l'Anse Beaupré G0A 1E0
+
+52
+
+Tel. résidence
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+4
+2024-09-26 10:12
+2024-2025 (0)
+
+223 AM 03401
+
+(suite)
+BAT
+
+DES BEAUX-PRÉS
+
+Élève
+
+Ordre d'ens.
+
+Classe
+
+GPar
+
+(suite)
+
+Heure
+
+Emb.
+
+Déb.
+
+07:45
+
+0
+
+52
+
+Adresse
+
+Tel. résidence
+
+Dégarie, Noah
+
+Primaire
+
+1er cycle, an 2
+
+205, Rue de la Colline app. 2 Beaupré G0A 1E0
+
+Desrochers, Gabriel
+
+Primaire
+
+3 ième cycle, an 2
+
+35, Rue de l'Anse Beaupré G0A 1E0
+
+Desrochers, Rose
+
+Primaire
+
+3 ième cycle, an 1
+
+35, Rue de l'Anse Beaupré G0A 1E0
+
+Dessureault, Félix
+
+Primaire
+
+3 ième cycle, an 2
+
+15, Rue du Ravin Beaupré G0A 1E0
+
+Dorval, Violette
+
+Primaire
+
+1er cycle, an 1
+
+40, Rue Des Aulnes Beaupré G0A 1E0
+
+Dubeau, Alicia-Rose
+
+Primaire
+
+3 ième cycle, an 1
+
+20, Rue de l'Anse Beaupré G0A 1E0
+
+Dubeau, Léana
+
+Primaire
+
+2 ième cycle, an 1
+
+20, Rue de l'Anse Beaupré G0A 1E0
+
+Duclos, Charles
+
+Primaire
+
+2 ième cycle, an 2
+
+40, Rue du Ravin Beaupré G0A 1E0
+
+Dufour Coulombe, Daphnée
+
+Primaire
+
+2 ième cycle, an 2
+
+240, Rue de la Colline Beaupré G0A 1E0
+
+Dufour Coulombe, Dereck
+
+Primaire
+
+2 ième cycle, an 2
+
+240, Rue de la Colline Beaupré G0A 1E0
+
+Dussault, Lucciano
+
+Première
+Préscolaire 5 ans
+
+Fortin, Jacob
+
+Primaire
+
+Gomez Segura, Caleb Deivis
+
+Première
+Préscolaire 4 ans
+
+260, Rue De la Colline app. 1 Beaupré G0A 1E0
+
+Hains, Arïa
+
+Première
+Préscolaire 5 ans
+
+235, Rue Saint-Emile Beaupré G0A 1E0
+
+Hains, Isaïa
+
+Primaire
+
+1er cycle, an 2
+
+235, Rue Saint-Émile Beaupré G0A 1E0
+
+Hains, Safïa
+
+Primaire
+
+1er cycle, an 1
+
+235, Rue Saint-Emile Beaupré G0A 1E0
+
+Ivorra, Zoé
+
+Primaire
+
+2 ième cycle, an 1
+
+215, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Joyal, Irlande-Aube
+
+Primaire
+
+3 ième cycle, an 1
+
+230, Rue de la Colline app. 4 Beaupré G0A 1E0
+
+Lachance, Charlie-Rose
+
+Primaire
+
+3 ième cycle, an 1
+
+270, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Lachance, Edward
+
+Primaire
+
+1er cycle, an 1
+
+270, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Lachance, Louis-Félix
+
+Primaire
+
+1er cycle, an 2
+
+18, Rue de la Seigneurie Beaupré G0A 1E0
+
+Lajoie, Anaée
+
+Primaire
+
+1er cycle, an 1
+
+20, Rue de la Petite Savane Beaupré G0A 1E0
+
+Lajoie, Éléonore
+
+Primaire
+
+2 ième cycle, an 2
+
+20, Rue de la Petite Savane Beaupré G0A 1E0
+
+Lambert, Hope
+
+Primaire
+
+3 ième cycle, an 1
+
+128, Rue de l'escapade Sainte-Anne-de-Beaupré G0A 3C0
+
+Lamizana, Talia
+
+Première
+Préscolaire 5 ans
+
+Landry, Alyssia
+
+Primaire
+
+1er cycle, an 2
+
+55, Rue de l'Anse Beaupré G0A 1E0
+
+Landry, Loïc
+
+Primaire
+
+2 ième cycle, an 1
+
+55, Rue de l'Anse Beaupré G0A 1E0
+
+Lévesque-Pérusse, Loucas
+
+Primaire
+
+3 ième cycle, an 2
+
+6, Rue Seigneurie Beaupré G0A 1E0
+
+Mennesson Boucher, Laetitia
+
+Primaire
+
+1er cycle, an 1
+
+264, Rue Saint-Louis Beaupré G0A 1E0
+
+Paquet, Penelope
+
+Première
+Préscolaire 5 ans
+
+Paquet, Samuel
+
+Primaire
+
+3 ième cycle, an 2
+
+130, Rue de la Falaise Beaupré G0A 1E0
+
+Patry, Edouard
+
+Primaire
+
+2 ième cycle, an 1
+
+70, Rue de L'Anse Beaupré G0A 1E0
+
+Patry, Florence
+
+Primaire
+
+1er cycle, an 1
+
+70, Rue de l'Anse Beaupré G0A 1E0
+
+2 ième cycle, an 1
+
+230, Rue De la Colline app. 1 Beaupré G0A 1E0
+65, Rue de l'Anse Beaupré G0A 1E0
+
+226, Rue Saint-Jean-Baptiste Beaupré G0A 1E0
+
+225, Rue Saint-Emile Beaupré G0A 1E0
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+5
+2024-09-26 10:12
+2024-2025 (0)
+
+223 AM 03401
+
+(suite)
+BAT
+Élève
+
+DES BEAUX-PRÉS
+Ordre d'ens.
+
+Classe
+
+GPar
+
+(suite)
+
+Heure
+
+Emb.
+
+Déb.
+
+07:45
+
+0
+
+52
+
+Adresse
+
+Patry, Georges
+
+Primaire
+
+3 ième cycle, an 1
+
+70, Rue de L'Anse Beaupré G0A 1E0
+
+Poulin, Léonard
+
+Primaire
+
+1er cycle, an 1
+
+300, Rue de l'Érablière Beaupré G0A 1E0
+
+Racine, Marily
+
+Primaire
+
+3 ième cycle, an 1
+
+280, Rue de l'Érablière Beaupré G0A 1E0
+
+Richard, Jamylia
+
+Primaire
+
+1er cycle, an 1
+
+240, Rue St-Jean-Baptiste Beaupré G0A 1E0
+
+Roberge, Clémence
+
+Primaire
+
+3 ième cycle, an 1
+
+5, Rue de L'Anse Beaupré G0A 1E0
+
+Salazar de la Cruz, Geraldinne Ivanna
+Première
+Préscolaire 5 ans
+
+250, Rue de la Colline Beaupré G0A 1E0
+
+Simard, Samuel
+
+Primaire
+
+3 ième cycle, an 2
+
+35, Rue du Ravin Beaupré G0A 1E0
+
+St-Gelais, Samuel
+
+Primaire
+
+2 ième cycle, an 2
+
+295, Rue de l'Érablière Beaupré G0A 1E0
+
+St-Gelais, Steven
+
+Primaire
+
+2 ième cycle, an 1
+
+295, Rue de l'Érablière Beaupré G0A 1E0
+
+Tremblay, Arthur
+
+Primaire
+
+2 ième cycle, an 2
+
+60, Rue de la Seigneurie Beaupré G0A 1E0
+
+Tremblay, Gabriel
+
+Primaire
+
+3 ième cycle, an 2
+
+25, Rue de l'Anse Beaupré G0A 1E0
+
+Tremblay, Gaspard
+
+Primaire
+
+3 ième cycle, an 2
+
+60, Rue de la Seigneurie Beaupré G0A 1E0
+
+Tremblay, Isaac
+
+Primaire
+
+2 ième cycle, an 1
+
+60, Rue de la Seigneurie Beaupré G0A 1E0
+
+Tremblay, Maélia
+
+Primaire
+
+2 ième cycle, an 2
+
+25, Rue de l'Anse Beaupré G0A 1E0
+
+Tel. résidence
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AM
+
+Parcours :
+
+Transporteur :
+
+51504
+
+Circuit :
+
+223
+
+Page
+6
+2024-09-26 10:12
+2024-2025 (0)
+
+Heure de début : 07:50
+Heure de fin :
+09:10
+
+AUTOBUS BEAUPRÉ INC.
+
+Distance :
+
+39206
+
+Occupation :
+
+41
+
+POINTS DE SERVICE
+
+ARR
+
+ROYALE / SAINT-LOUIS (BEAUPRÉ)
+Ordre d'ens.
+
+Élève
+
+Classe
+
+Heure
+
+Emb.
+
+Déb.
+
+07:50
+
+11
+
+0
+
+Adresse
+
+GPar
+
+Tel. résidence
+
+Beaulieu, Hugo
+
+Secondaire
+
+Quatrième
+
+29, Rue des Érables Beaupré G0A 1E0
+
+Brodeur, Maély
+
+Secondaire
+
+Cinquième
+
+19, Rue du Sumac Beaupré G0A 1E0
+
+Dufour Coulombe, Océanne
+
+Secondaire
+
+Quatrième
+
+240, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Fortin, Émile
+
+Secondaire
+
+Troisième
+
+57, Rue Sainte-Croix Beaupré G0A 1E0
+
+Fortin, Nathaniel
+
+Secondaire
+
+Cinquième
+
+57, Rue Sainte-Croix Beaupré G0A 1E0
+
+Fraysse, William
+
+Secondaire
+
+Cinquième
+
+11468, Avenue Royale Beaupré G0A 1E0
+
+Gomez Moreno, Karen Andrea
+
+Secondaire
+
+Cinquième
+
+11075, Avenue Royale Beaupré G0A 1E0
+
+Mainguy, Liam
+
+Secondaire
+
+Troisième
+
+208, Rue Saint-Jean-Baptiste Beaupré G0A 1E0
+
+Martel-Pageau, Jordan
+
+Secondaire
+
+Première
+
+11147, Avenue Royale Beaupré G0A 1E0
+
+Rosa, Mathys
+
+Secondaire
+
+Troisième
+
+215, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Tremblay, Alexane
+
+Secondaire
+
+Cinquième
+
+40, Rue Cormier Beaupré G0A 1E0
+
+ARR
+
+ÉCOLE SECONDAIRE MONT-STE-ANNE (BEAUPRÉ)
+Ordre d'ens.
+
+Élève
+
+Classe
+
+GPar
+
+07:52
+
+10
+
+Adresse
+
+0
+
+Tel. résidence
+
+Bernier, Pénélope
+
+Secondaire
+
+Troisième
+
+19, Rue de l'Avalanche Beaupré G0A 1E0
+
+Couillard, Alexia
+
+Secondaire
+
+Quatrième
+
+75, Rue Notre-Dame Saint-Ferréol-les-Neiges G0A 3R0
+
+Duclos, Charles-Elliot
+
+Secondaire
+
+Deuxième
+
+22, Avenue Dulcos Saint-Tite-des-Caps G0A 4J0
+
+Martin, Edouard
+
+Secondaire
+
+Deuxième
+
+2833, Avenue Royale Saint-Ferréol-les-Neiges G0A 3R0
+
+Matte, Audrey-Kim
+
+Secondaire
+
+Cinquième
+
+22, Rue FIllion Saint-Joachim G0A 3X0
+
+Paquet, Michelle
+
+Secondaire
+
+Quatrième
+
+214, Rue Notre-Dame Saint-Ferréol-les-Neiges G0A 3R0
+
+Paquet, Michelle
+
+Secondaire
+
+Quatrième
+
+218, Rue De Coubertin Saint-Ferréol-les-Neiges G0A 3R0
+
+Paré, Charlotte
+
+Secondaire
+
+Première
+
+3780, Avenue Royale Saint-Ferréol-les-Neiges G0A 3R0
+
+Rompré, Augustine
+
+Secondaire
+
+Cinquième
+
+18, Rue Desjardins Saint-Ferréol-les-Neiges G0A 3R0
+
+Tremblay, Ève
+
+Secondaire
+
+Cinquième
+
+6, Rue des Cormorans Beaupré G0A 1E0
+
+ARR
+Élève
+
+ROYALE / DU SANCTUAIRE (S-A-B)
+Ordre d'ens.
+
+Classe
+
+07:58
+GPar
+
+Adresse
+
+7
+
+0
+
+Tel. résidence
+
+Almeida, Justin
+
+Secondaire
+
+Cinquième
+
+10259, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Almeida, Simon
+
+Secondaire
+
+Troisième
+
+10259, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Béro, Évelyne
+
+Secondaire
+
+Quatrième
+
+10150, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+7
+2024-09-26 10:12
+2024-2025 (0)
+
+223 AM 51504
+
+(suite)
+ARR
+
+ROYALE / DU SANCTUAIRE (S-A-B)
+Ordre d'ens.
+
+Élève
+
+Classe
+
+GPar
+
+(suite)
+
+Heure
+
+Emb.
+
+Déb.
+
+07:58
+
+7
+
+0
+
+Adresse
+
+Tel. résidence
+
+Esmel, Kris Ethan
+
+Secondaire
+
+Deuxième
+
+10660, Avenue Royale app. 1 Sainte-Anne-de-Beaupré G0A 3C0
+
+Jobin, Evan
+
+Secondaire
+
+Cinquième
+
+10683, Boulevard Ste-Anne Sainte-Anne-de-Beaupré G0A 3C0
+
+Rosa, Jordanne
+
+Secondaire
+
+Première
+
+10287, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Rosa, Raphaëlle
+
+Secondaire
+
+Cinquième
+
+10287, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+TRF
+
+TRSF. ÉGLISE ANGE-GARDIEN (500-507-504)
+
+Élève
+
+Ordre d'ens.
+
+Classe
+
+GPar
+
+08:39
+
+22
+
+Adresse
+
+18
+
+Tel. résidence
+
+Beaulieu, Hugo
+
+Secondaire
+
+Quatrième
+
+29, Rue des Érables Beaupré G0A 1E0
+
+Bernier, Pénélope
+
+Secondaire
+
+Troisième
+
+19, Rue de l'Avalanche Beaupré G0A 1E0
+
+Béro, Évelyne
+
+Secondaire
+
+Quatrième
+
+10150, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Couillard, Alexia
+
+Secondaire
+
+Quatrième
+
+75, Rue Notre-Dame Saint-Ferréol-les-Neiges G0A 3R0
+
+Duclos, Charles-Elliot
+
+Secondaire
+
+Deuxième
+
+22, Avenue Dulcos Saint-Tite-des-Caps G0A 4J0
+
+Fraysse, William
+
+Secondaire
+
+Cinquième
+
+11468, Avenue Royale Beaupré G0A 1E0
+
+Gomez Moreno, Karen Andrea
+
+Secondaire
+
+Cinquième
+
+11075, Avenue Royale Beaupré G0A 1E0
+
+Jobin, Evan
+
+Secondaire
+
+Cinquième
+
+10683, Boulevard Ste-Anne Sainte-Anne-de-Beaupré G0A 3C0
+
+Martin, Edouard
+
+Secondaire
+
+Deuxième
+
+2833, Avenue Royale Saint-Ferréol-les-Neiges G0A 3R0
+
+Matte, Audrey-Kim
+
+Secondaire
+
+Cinquième
+
+22, Rue FIllion Saint-Joachim G0A 3X0
+
+Paquet, Michelle
+
+Secondaire
+
+Quatrième
+
+214, Rue Notre-Dame Saint-Ferréol-les-Neiges G0A 3R0
+
+Paquet, Michelle
+
+Secondaire
+
+Quatrième
+
+218, Rue De Coubertin Saint-Ferréol-les-Neiges G0A 3R0
+
+Rompré, Augustine
+
+Secondaire
+
+Cinquième
+
+18, Rue Desjardins Saint-Ferréol-les-Neiges G0A 3R0
+
+Rosa, Jordanne
+
+Secondaire
+
+Première
+
+10287, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Rosa, Mathys
+
+Secondaire
+
+Troisième
+
+215, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Rosa, Raphaëlle
+
+Secondaire
+
+Cinquième
+
+10287, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Tremblay, Alexane
+
+Secondaire
+
+Cinquième
+
+40, Rue Cormier Beaupré G0A 1E0
+
+Tremblay, Ève
+
+Secondaire
+
+Cinquième
+
+6, Rue des Cormorans Beaupré G0A 1E0
+
+Anjuère, Chanelle
+
+Secondaire
+
+Troisième
+
+16, Rue Charlotte Château-Richer G0A 1N0
+
+Beaulieu, Jacob
+
+Secondaire
+
+Troisième
+
+9380, Avenue Royale app. 3 Sainte-Anne-de-Beaupré G0A 3C0
+
+Becht, Joachim Tobias
+
+Secondaire
+
+Troisième
+
+7832, Boulevard Sainte-Anne Château-Richer G0A 1N0
+
+Boies-Lizotte, Saphyra
+
+Secondaire
+
+Troisième
+
+2, Rue Charlotte Château-Richer G0A 1N0
+
+Bourget, Félix-Antoine
+
+Secondaire
+
+Troisième
+
+16, Rue Huot L'Ange-Gardien G0A 2K0
+
+Brousseau, Alexane
+
+Secondaire
+
+Première
+
+127, Rue Du Piedmont Boischatel G0A 1H0
+
+Caron, Émile
+
+Secondaire
+
+Deuxième
+
+6641, Avenue Royale L'Ange-Gardien G0A 2K0
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+8
+2024-09-26 10:12
+2024-2025 (0)
+
+223 AM 51504
+
+(suite)
+TRF
+
+TRSF. ÉGLISE ANGE-GARDIEN (500-507-504)
+Ordre d'ens.
+
+Élève
+
+Classe
+
+(suite)
+
+Heure
+
+Emb.
+
+Déb.
+
+08:39
+
+22
+
+18
+
+Adresse
+
+GPar
+
+Tel. résidence
+
+Caron, Émile
+
+Secondaire
+
+Deuxième
+
+7004, Boulevard Sainte-Anne app. 16 Château-Richer G0A 1N0
+
+Côté, Daphnée
+
+Secondaire
+
+Deuxième
+
+125, Rue Lafortune Château-Richer G0A 1N0
+
+Dugourd, Nathaniel
+
+Secondaire
+
+Troisième
+
+6681, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Emond-Lessard, Félix
+
+Secondaire
+
+Quatrième
+
+8246, Avenue Royale Château-Richer G0A 1N0
+
+Jones-Boucher, Samuel
+
+Secondaire
+
+Troisième
+
+7002, Boulevard Sainte-Anne app. 14 Château-Richer G0A 1N0
+
+Kelso, Liam
+
+Secondaire
+
+Quatrième
+
+6841, Avenue Royale app. 302 L'Ange-Gardien G0A 2K0
+
+Lacasse, Mikael
+
+Secondaire
+
+Troisième
+
+25, Rang St-Ignace Château-Richer G0A 1N0
+
+Malenfant, Xavier
+
+Secondaire
+
+Deuxième
+
+64, Rue de l'Oiselière L'Ange-Gardien G0A 2K0
+
+Paré, Maélie
+
+Secondaire
+
+Quatrième
+
+5, Rue Laberge L'Ange-Gardien G0A 2K0
+
+Renaud, Zack
+
+Secondaire
+
+Deuxième
+
+6774, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Salehi, Laura
+
+Secondaire
+
+Première
+
+7546, Avenue Royale Château-Richer G0A 1N0
+
+Tardif, Mathiew
+
+Secondaire
+
+Quatrième
+
+4, Rue des Érables L'Ange-Gardien G0A 2K0
+
+Therrien, Samuel
+
+Secondaire
+
+Première
+
+59, Route St-Achillée Château-Richer G0A 1N0
+
+Thibeault, Loïk
+
+Secondaire
+
+Première
+
+27, Rue Charles-Côté Château-Richer G0A 1N0
+
+Vault, Lucas
+
+Secondaire
+
+Troisième
+
+7874, Avenue Royale Château-Richer G0A 1N0
+
+ARR
+
+ÉGLISE L'ANGE-GARDIEN (STATIONNEMENT)
+Ordre d'ens.
+
+Élève
+
+Classe
+
+GPar
+
+08:43
+
+5
+
+Adresse
+
+0
+
+Tel. résidence
+
+Couture, Jordan
+
+Secondaire
+
+Deuxième
+
+48, Rue Piché L'Ange-Gardien G0A 2K0
+
+Drouin, Mathéo
+
+Secondaire
+
+Deuxième
+
+6354, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Dufour, Zack
+
+Secondaire
+
+Deuxième
+
+17, Rue Émilien-Fortier L'Ange-Gardien G0A 2K0
+
+Jourdain, Angie
+
+Secondaire
+
+Quatrième
+
+2, Rue Du Tricentenaire L'Ange-Gardien G0A 2K0
+
+Maranda, Emrick
+
+Secondaire
+
+Première
+
+67, Rue Monseigneur-Leclerc L'Ange-Gardien G0A 2K0
+
+ARR
+Élève
+
+ROYALE / LÉPINE (ANGE-GARDIEN)
+Ordre d'ens.
+
+Classe
+
+08:45
+GPar
+
+5
+
+Adresse
+
+Beaulieu, Lenox
+
+Secondaire
+
+Deuxième
+
+56, Rue des Falaises L'Ange-Gardien G0A 2K0
+
+Côté, Pier-Olivier
+
+Secondaire
+
+Deuxième
+
+105, Rue Lépine L'Ange-Gardien G0A 2K0
+
+Sansoni, Luca
+
+Secondaire
+
+Troisième
+
+187, Rue Lépine L'Ange-Gardien G0A 2K0
+
+Sylvain, Samuel
+
+Secondaire
+
+Première
+
+7, Rue Alain L'Ange-Gardien G0A 2K0
+
+Verret, Félix-Antoine
+
+Secondaire
+
+Première
+
+97, Rue Lépine L'Ange-Gardien G0A 2K0
+
+0
+
+Tel. résidence
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+BAT
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+9
+2024-09-26 10:12
+2024-2025 (0)
+
+223 AM 51504
+
+ACADEMIE SAINTE-MARIE
+Ordre d'ens.
+
+Élève
+
+Classe
+
+GPar
+
+(suite)
+
+Heure
+
+Emb.
+
+Déb.
+
+09:00
+
+0
+
+13
+
+Adresse
+
+Tel. résidence
+
+Almeida, Justin
+
+Secondaire
+
+Cinquième
+
+10259, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Almeida, Simon
+
+Secondaire
+
+Troisième
+
+10259, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Beaulieu, Lenox
+
+Secondaire
+
+Deuxième
+
+56, Rue des Falaises L'Ange-Gardien G0A 2K0
+
+Côté, Pier-Olivier
+
+Secondaire
+
+Deuxième
+
+105, Rue Lépine L'Ange-Gardien G0A 2K0
+
+Couture, Jordan
+
+Secondaire
+
+Deuxième
+
+48, Rue Piché L'Ange-Gardien G0A 2K0
+
+Drouin, Mathéo
+
+Secondaire
+
+Deuxième
+
+6354, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Dugourd, Nathaniel
+
+Secondaire
+
+Troisième
+
+6681, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Jones-Boucher, Samuel
+
+Secondaire
+
+Troisième
+
+7002, Boulevard Sainte-Anne app. 14 Château-Richer G0A 1N0
+
+Lacasse, Mikael
+
+Secondaire
+
+Troisième
+
+25, Rang St-Ignace Château-Richer G0A 1N0
+
+Maranda, Emrick
+
+Secondaire
+
+Première
+
+67, Rue Monseigneur-Leclerc L'Ange-Gardien G0A 2K0
+
+Paré, Charlotte
+
+Secondaire
+
+Première
+
+3780, Avenue Royale Saint-Ferréol-les-Neiges G0A 3R0
+
+Salehi, Laura
+
+Secondaire
+
+Première
+
+7546, Avenue Royale Château-Richer G0A 1N0
+
+Tardif, Mathiew
+
+Secondaire
+
+Quatrième
+
+4, Rue des Érables L'Ange-Gardien G0A 2K0
+
+BAT
+
+SAMUEL-DE-CHAMPLAIN
+
+Élève
+
+Ordre d'ens.
+
+09:10
+Classe
+
+GPar
+
+0
+
+Adresse
+
+29
+
+Tel. résidence
+
+Anjuère, Chanelle
+
+Secondaire
+
+Troisième
+
+16, Rue Charlotte Château-Richer G0A 1N0
+
+Beaulieu, Jacob
+
+Secondaire
+
+Troisième
+
+9380, Avenue Royale app. 3 Sainte-Anne-de-Beaupré G0A 3C0
+
+Becht, Joachim Tobias
+
+Secondaire
+
+Troisième
+
+7832, Boulevard Sainte-Anne Château-Richer G0A 1N0
+
+Boies-Lizotte, Saphyra
+
+Secondaire
+
+Troisième
+
+2, Rue Charlotte Château-Richer G0A 1N0
+
+Bourget, Félix-Antoine
+
+Secondaire
+
+Troisième
+
+16, Rue Huot L'Ange-Gardien G0A 2K0
+
+Brodeur, Maély
+
+Secondaire
+
+Cinquième
+
+19, Rue du Sumac Beaupré G0A 1E0
+
+Brousseau, Alexane
+
+Secondaire
+
+Première
+
+127, Rue Du Piedmont Boischatel G0A 1H0
+
+Caron, Émile
+
+Secondaire
+
+Deuxième
+
+6641, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Caron, Émile
+
+Secondaire
+
+Deuxième
+
+7004, Boulevard Sainte-Anne app. 16 Château-Richer G0A 1N0
+
+Côté, Daphnée
+
+Secondaire
+
+Deuxième
+
+125, Rue Lafortune Château-Richer G0A 1N0
+
+Dufour, Zack
+
+Secondaire
+
+Deuxième
+
+17, Rue Émilien-Fortier L'Ange-Gardien G0A 2K0
+
+Dufour Coulombe, Océanne
+
+Secondaire
+
+Quatrième
+
+240, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Emond-Lessard, Félix
+
+Secondaire
+
+Quatrième
+
+8246, Avenue Royale Château-Richer G0A 1N0
+
+Esmel, Kris Ethan
+
+Secondaire
+
+Deuxième
+
+10660, Avenue Royale app. 1 Sainte-Anne-de-Beaupré G0A 3C0
+
+Fortin, Émile
+
+Secondaire
+
+Troisième
+
+57, Rue Sainte-Croix Beaupré G0A 1E0
+
+Fortin, Nathaniel
+
+Secondaire
+
+Cinquième
+
+57, Rue Sainte-Croix Beaupré G0A 1E0
+
+Jourdain, Angie
+
+Secondaire
+
+Quatrième
+
+2, Rue Du Tricentenaire L'Ange-Gardien G0A 2K0
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+10
+2024-09-26 10:12
+2024-2025 (0)
+
+223 AM 51504
+
+(suite)
+BAT
+
+SAMUEL-DE-CHAMPLAIN
+Ordre d'ens.
+
+Élève
+
+Classe
+
+GPar
+
+(suite)
+
+Heure
+
+Emb.
+
+Déb.
+
+09:10
+
+0
+
+29
+
+Adresse
+
+Tel. résidence
+
+Kelso, Liam
+
+Secondaire
+
+Quatrième
+
+6841, Avenue Royale app. 302 L'Ange-Gardien G0A 2K0
+
+Mainguy, Liam
+
+Secondaire
+
+Troisième
+
+208, Rue Saint-Jean-Baptiste Beaupré G0A 1E0
+
+Malenfant, Xavier
+
+Secondaire
+
+Deuxième
+
+64, Rue de l'Oiselière L'Ange-Gardien G0A 2K0
+
+Martel-Pageau, Jordan
+
+Secondaire
+
+Première
+
+11147, Avenue Royale Beaupré G0A 1E0
+
+Paré, Maélie
+
+Secondaire
+
+Quatrième
+
+5, Rue Laberge L'Ange-Gardien G0A 2K0
+
+Renaud, Zack
+
+Secondaire
+
+Deuxième
+
+6774, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Sansoni, Luca
+
+Secondaire
+
+Troisième
+
+187, Rue Lépine L'Ange-Gardien G0A 2K0
+
+Sylvain, Samuel
+
+Secondaire
+
+Première
+
+7, Rue Alain L'Ange-Gardien G0A 2K0
+
+Therrien, Samuel
+
+Secondaire
+
+Première
+
+59, Route St-Achillée Château-Richer G0A 1N0
+
+Thibeault, Loïk
+
+Secondaire
+
+Première
+
+27, Rue Charles-Côté Château-Richer G0A 1N0
+
+Vault, Lucas
+
+Secondaire
+
+Troisième
+
+7874, Avenue Royale Château-Richer G0A 1N0
+
+Verret, Félix-Antoine
+
+Secondaire
+
+Première
+
+97, Rue Lépine L'Ange-Gardien G0A 2K0
+
+Parcours :
+
+PM
+
+Transporteur :
+
+51504
+
+Circuit :
+
+223
+
+Heure de début : 16:22
+Heure de fin :
+17:39
+
+AUTOBUS BEAUPRÉ INC.
+
+Distance :
+
+41514
+
+Occupation :
+
+42
+
+POINTS DE SERVICE
+
+BAT
+
+ACADEMIE SAINTE-MARIE
+
+Élève
+
+Ordre d'ens.
+
+Classe
+
+GPar
+
+Heure
+
+Emb.
+
+Déb.
+
+16:22
+
+13
+
+0
+
+Adresse
+
+Tel. résidence
+
+Almeida, Justin
+
+Secondaire
+
+Cinquième
+
+10259, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Almeida, Simon
+
+Secondaire
+
+Troisième
+
+10259, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Beaulieu, Lenox
+
+Secondaire
+
+Deuxième
+
+56, Rue des Falaises L'Ange-Gardien G0A 2K0
+
+Côté, Pier-Olivier
+
+Secondaire
+
+Deuxième
+
+105, Rue Lépine L'Ange-Gardien G0A 2K0
+
+Couture, Jordan
+
+Secondaire
+
+Deuxième
+
+48, Rue Piché L'Ange-Gardien G0A 2K0
+
+Drouin, Mathéo
+
+Secondaire
+
+Deuxième
+
+6354, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Dugourd, Nathaniel
+
+Secondaire
+
+Troisième
+
+6681, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Jones-Boucher, Samuel
+
+Secondaire
+
+Troisième
+
+7002, Boulevard Sainte-Anne app. 14 Château-Richer G0A 1N0
+
+Lacasse, Mikael
+
+Secondaire
+
+Troisième
+
+25, Rang St-Ignace Château-Richer G0A 1N0
+
+Maranda, Emrick
+
+Secondaire
+
+Première
+
+67, Rue Monseigneur-Leclerc L'Ange-Gardien G0A 2K0
+
+Paré, Charlotte
+
+Secondaire
+
+Première
+
+3780, Avenue Royale Saint-Ferréol-les-Neiges G0A 3R0
+
+Salehi, Laura
+
+Secondaire
+
+Première
+
+7546, Avenue Royale Château-Richer G0A 1N0
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+11
+2024-09-26 10:12
+2024-2025 (0)
+
+223 PM 51504
+
+(suite)
+BAT
+
+ACADEMIE SAINTE-MARIE
+Ordre d'ens.
+
+Élève
+
+Tardif, Mathiew
+
+BAT
+
+Secondaire
+
+Classe
+
+GPar
+
+Quatrième
+
+Ordre d'ens.
+
+Heure
+
+Emb.
+
+Déb.
+
+16:22
+
+13
+
+0
+
+Adresse
+
+Tel. résidence
+
+4, Rue des Érables L'Ange-Gardien G0A 2K0
+
+SAMUEL-DE-CHAMPLAIN
+
+Élève
+
+16:30
+Classe
+
+(suite)
+
+GPar
+
+30
+
+Adresse
+
+0
+
+Tel. résidence
+
+Anjuère, Chanelle
+
+Secondaire
+
+Troisième
+
+16, Rue Charlotte Château-Richer G0A 1N0
+
+Beaulieu, Jacob
+
+Secondaire
+
+Troisième
+
+9380, Avenue Royale app. 3 Sainte-Anne-de-Beaupré G0A 3C0
+
+Becht, Joachim Tobias
+
+Secondaire
+
+Troisième
+
+7832, Boulevard Sainte-Anne Château-Richer G0A 1N0
+
+Boies-Lizotte, Saphyra
+
+Secondaire
+
+Troisième
+
+2, Rue Charlotte Château-Richer G0A 1N0
+
+Bourget, Félix-Antoine
+
+Secondaire
+
+Troisième
+
+16, Rue Huot L'Ange-Gardien G0A 2K0
+
+Brodeur, Maély
+
+Secondaire
+
+Cinquième
+
+19, Rue du Sumac Beaupré G0A 1E0
+
+Brousseau, Alexane
+
+Secondaire
+
+Première
+
+127, Rue Du Piedmont Boischatel G0A 1H0
+
+Caron, Émile
+
+Secondaire
+
+Deuxième
+
+6641, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Caron, Émile
+
+Secondaire
+
+Deuxième
+
+7004, Boulevard Sainte-Anne app. 16 Château-Richer G0A 1N0
+
+Cayer Simard, Charles
+
+Secondaire
+
+Quatrième
+
+10531, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Côté, Daphnée
+
+Secondaire
+
+Deuxième
+
+125, Rue Lafortune Château-Richer G0A 1N0
+
+Dufour, Zack
+
+Secondaire
+
+Deuxième
+
+17, Rue Émilien-Fortier L'Ange-Gardien G0A 2K0
+
+Dufour Coulombe, Océanne
+
+Secondaire
+
+Quatrième
+
+240, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Emond-Lessard, Félix
+
+Secondaire
+
+Quatrième
+
+8246, Avenue Royale Château-Richer G0A 1N0
+
+Esmel, Kris Ethan
+
+Secondaire
+
+Deuxième
+
+10660, Avenue Royale app. 1 Sainte-Anne-de-Beaupré G0A 3C0
+
+Fortin, Émile
+
+Secondaire
+
+Troisième
+
+57, Rue Sainte-Croix Beaupré G0A 1E0
+
+Fortin, Nathaniel
+
+Secondaire
+
+Cinquième
+
+57, Rue Sainte-Croix Beaupré G0A 1E0
+
+Jourdain, Angie
+
+Secondaire
+
+Quatrième
+
+2, Rue Du Tricentenaire L'Ange-Gardien G0A 2K0
+
+Kelso, Liam
+
+Secondaire
+
+Quatrième
+
+6841, Avenue Royale app. 302 L'Ange-Gardien G0A 2K0
+
+Mainguy, Liam
+
+Secondaire
+
+Troisième
+
+208, Rue Saint-Jean-Baptiste Beaupré G0A 1E0
+
+Malenfant, Xavier
+
+Secondaire
+
+Deuxième
+
+64, Rue de l'Oiselière L'Ange-Gardien G0A 2K0
+
+Martel-Pageau, Jordan
+
+Secondaire
+
+Première
+
+11147, Avenue Royale Beaupré G0A 1E0
+
+Paré, Maélie
+
+Secondaire
+
+Quatrième
+
+5, Rue Laberge L'Ange-Gardien G0A 2K0
+
+Renaud, Zack
+
+Secondaire
+
+Deuxième
+
+6774, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Sansoni, Luca
+
+Secondaire
+
+Troisième
+
+187, Rue Lépine L'Ange-Gardien G0A 2K0
+
+Sylvain, Samuel
+
+Secondaire
+
+Première
+
+7, Rue Alain L'Ange-Gardien G0A 2K0
+
+Therrien, Samuel
+
+Secondaire
+
+Première
+
+59, Route St-Achillée Château-Richer G0A 1N0
+
+Thibeault, Loïk
+
+Secondaire
+
+Première
+
+27, Rue Charles-Côté Château-Richer G0A 1N0
+
+Vault, Lucas
+
+Secondaire
+
+Troisième
+
+7874, Avenue Royale Château-Richer G0A 1N0
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+12
+2024-09-26 10:12
+2024-2025 (0)
+
+223 PM 51504
+
+(suite)
+BAT
+
+SAMUEL-DE-CHAMPLAIN
+Ordre d'ens.
+
+Élève
+
+Verret, Félix-Antoine
+
+ARR
+
+Secondaire
+
+Classe
+
+Ordre d'ens.
+
+Classe
+
+Emb.
+
+Déb.
+
+16:30
+
+30
+
+0
+
+Tel. résidence
+
+97, Rue Lépine L'Ange-Gardien G0A 2K0
+
+ROYALE / LÉPINE (ANGE-GARDIEN)
+
+Élève
+
+Heure
+
+Adresse
+
+GPar
+
+Première
+
+(suite)
+
+16:53
+
+0
+
+Adresse
+
+GPar
+
+Tel. résidence
+
+Beaulieu, Lenox
+
+Secondaire
+
+Deuxième
+
+56, Rue des Falaises L'Ange-Gardien G0A 2K0
+
+Côté, Pier-Olivier
+
+Secondaire
+
+Deuxième
+
+105, Rue Lépine L'Ange-Gardien G0A 2K0
+
+Sansoni, Luca
+
+Secondaire
+
+Troisième
+
+187, Rue Lépine L'Ange-Gardien G0A 2K0
+
+Sylvain, Samuel
+
+Secondaire
+
+Première
+
+7, Rue Alain L'Ange-Gardien G0A 2K0
+
+Verret, Félix-Antoine
+
+Secondaire
+
+Première
+
+97, Rue Lépine L'Ange-Gardien G0A 2K0
+
+ARR
+
+ÉGLISE L'ANGE-GARDIEN (STATIONNEMENT)
+Ordre d'ens.
+
+Élève
+
+Classe
+
+GPar
+
+5
+
+16:57
+
+0
+
+Adresse
+
+5
+
+Tel. résidence
+
+Couture, Jordan
+
+Secondaire
+
+Deuxième
+
+48, Rue Piché L'Ange-Gardien G0A 2K0
+
+Drouin, Mathéo
+
+Secondaire
+
+Deuxième
+
+6354, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Dufour, Zack
+
+Secondaire
+
+Deuxième
+
+17, Rue Émilien-Fortier L'Ange-Gardien G0A 2K0
+
+Jourdain, Angie
+
+Secondaire
+
+Quatrième
+
+2, Rue Du Tricentenaire L'Ange-Gardien G0A 2K0
+
+Maranda, Emrick
+
+Secondaire
+
+Première
+
+67, Rue Monseigneur-Leclerc L'Ange-Gardien G0A 2K0
+
+TRF
+
+TRSF. ÉGLISE ANGE-GARDIEN (500-507-504)
+
+Élève
+
+Ordre d'ens.
+
+Classe
+
+GPar
+
+16:57
+
+20
+
+Adresse
+
+22
+
+Tel. résidence
+
+Anjuère, Chanelle
+
+Secondaire
+
+Troisième
+
+16, Rue Charlotte Château-Richer G0A 1N0
+
+Beaulieu, Jacob
+
+Secondaire
+
+Troisième
+
+9380, Avenue Royale app. 3 Sainte-Anne-de-Beaupré G0A 3C0
+
+Becht, Joachim Tobias
+
+Secondaire
+
+Troisième
+
+7832, Boulevard Sainte-Anne Château-Richer G0A 1N0
+
+Boies-Lizotte, Saphyra
+
+Secondaire
+
+Troisième
+
+2, Rue Charlotte Château-Richer G0A 1N0
+
+Bourget, Félix-Antoine
+
+Secondaire
+
+Troisième
+
+16, Rue Huot L'Ange-Gardien G0A 2K0
+
+Brousseau, Alexane
+
+Secondaire
+
+Première
+
+127, Rue Du Piedmont Boischatel G0A 1H0
+
+Caron, Émile
+
+Secondaire
+
+Deuxième
+
+6641, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Caron, Émile
+
+Secondaire
+
+Deuxième
+
+7004, Boulevard Sainte-Anne app. 16 Château-Richer G0A 1N0
+
+Côté, Daphnée
+
+Secondaire
+
+Deuxième
+
+125, Rue Lafortune Château-Richer G0A 1N0
+
+Dugourd, Nathaniel
+
+Secondaire
+
+Troisième
+
+6681, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Emond-Lessard, Félix
+
+Secondaire
+
+Quatrième
+
+8246, Avenue Royale Château-Richer G0A 1N0
+
+Jones-Boucher, Samuel
+
+Secondaire
+
+Troisième
+
+7002, Boulevard Sainte-Anne app. 14 Château-Richer G0A 1N0
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+13
+2024-09-26 10:12
+2024-2025 (0)
+
+223 PM 51504
+
+(suite)
+TRF
+
+TRSF. ÉGLISE ANGE-GARDIEN (500-507-504)
+Ordre d'ens.
+
+Élève
+
+Classe
+
+GPar
+
+(suite)
+
+Heure
+
+Emb.
+
+Déb.
+
+16:57
+
+20
+
+22
+
+Adresse
+
+Tel. résidence
+
+Kelso, Liam
+
+Secondaire
+
+Quatrième
+
+6841, Avenue Royale app. 302 L'Ange-Gardien G0A 2K0
+
+Lacasse, Mikael
+
+Secondaire
+
+Troisième
+
+25, Rang St-Ignace Château-Richer G0A 1N0
+
+Malenfant, Xavier
+
+Secondaire
+
+Deuxième
+
+64, Rue de l'Oiselière L'Ange-Gardien G0A 2K0
+
+Paré, Maélie
+
+Secondaire
+
+Quatrième
+
+5, Rue Laberge L'Ange-Gardien G0A 2K0
+
+Renaud, Zack
+
+Secondaire
+
+Deuxième
+
+6774, Avenue Royale L'Ange-Gardien G0A 2K0
+
+Salehi, Laura
+
+Secondaire
+
+Première
+
+7546, Avenue Royale Château-Richer G0A 1N0
+
+Tardif, Mathiew
+
+Secondaire
+
+Quatrième
+
+4, Rue des Érables L'Ange-Gardien G0A 2K0
+
+Therrien, Samuel
+
+Secondaire
+
+Première
+
+59, Route St-Achillée Château-Richer G0A 1N0
+
+Thibeault, Loïk
+
+Secondaire
+
+Première
+
+27, Rue Charles-Côté Château-Richer G0A 1N0
+
+Vault, Lucas
+
+Secondaire
+
+Troisième
+
+7874, Avenue Royale Château-Richer G0A 1N0
+
+Beaulieu, Hugo
+
+Secondaire
+
+Quatrième
+
+29, Rue des Érables Beaupré G0A 1E0
+
+Bernier, Pénélope
+
+Secondaire
+
+Troisième
+
+19, Rue de l'Avalanche Beaupré G0A 1E0
+
+Béro, Évelyne
+
+Secondaire
+
+Quatrième
+
+10150, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Boucher, Alex
+
+Secondaire
+
+Troisième
+
+26, Rue d'Albertville Saint-Ferréol-les-Neiges G0A 3R0
+
+Couillard, Alexia
+
+Secondaire
+
+Quatrième
+
+75, Rue Notre-Dame Saint-Ferréol-les-Neiges G0A 3R0
+
+Duclos, Charles-Elliot
+
+Secondaire
+
+Deuxième
+
+22, Avenue Dulcos Saint-Tite-des-Caps G0A 4J0
+
+Fraysse, William
+
+Secondaire
+
+Cinquième
+
+11468, Avenue Royale Beaupré G0A 1E0
+
+Gomez Moreno, Karen Andrea
+
+Secondaire
+
+Cinquième
+
+11075, Avenue Royale Beaupré G0A 1E0
+
+Jobin, Evan
+
+Secondaire
+
+Cinquième
+
+10683, Boulevard Ste-Anne Sainte-Anne-de-Beaupré G0A 3C0
+
+Martin, Edouard
+
+Secondaire
+
+Deuxième
+
+2833, Avenue Royale Saint-Ferréol-les-Neiges G0A 3R0
+
+Matte, Audrey-Kim
+
+Secondaire
+
+Cinquième
+
+22, Rue FIllion Saint-Joachim G0A 3X0
+
+Paquet, Michelle
+
+Secondaire
+
+Quatrième
+
+214, Rue Notre-Dame Saint-Ferréol-les-Neiges G0A 3R0
+
+Paquet, Michelle
+
+Secondaire
+
+Quatrième
+
+218, Rue De Coubertin Saint-Ferréol-les-Neiges G0A 3R0
+
+Rompré, Augustine
+
+Secondaire
+
+Cinquième
+
+18, Rue Desjardins Saint-Ferréol-les-Neiges G0A 3R0
+
+Rosa, Jordanne
+
+Secondaire
+
+Première
+
+10287, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Rosa, Mathys
+
+Secondaire
+
+Troisième
+
+215, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Rosa, Raphaëlle
+
+Secondaire
+
+Cinquième
+
+10287, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Thomassin, Alexandre
+
+Secondaire
+
+Deuxième
+
+2, Rue Thomassin Saint-Joachim G0A 3X0
+
+Tremblay, Alexane
+
+Secondaire
+
+Cinquième
+
+40, Rue Cormier Beaupré G0A 1E0
+
+Tremblay, Ève
+
+Secondaire
+
+Cinquième
+
+6, Rue des Cormorans Beaupré G0A 1E0
+
+ARR
+
+ROYALE / DU SANCTUAIRE (S-A-B)
+
+17:29
+
+0
+
+7
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+14
+2024-09-26 10:12
+2024-2025 (0)
+
+223 PM 51504
+
+(suite)
+ARR
+
+ROYALE / DU SANCTUAIRE (S-A-B)
+Ordre d'ens.
+
+Élève
+
+Classe
+
+(suite)
+
+Heure
+
+Emb.
+
+Déb.
+
+17:29
+
+0
+
+7
+
+Adresse
+
+GPar
+
+Tel. résidence
+
+Almeida, Justin
+
+Secondaire
+
+Cinquième
+
+10259, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Almeida, Simon
+
+Secondaire
+
+Troisième
+
+10259, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Béro, Évelyne
+
+Secondaire
+
+Quatrième
+
+10150, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Esmel, Kris Ethan
+
+Secondaire
+
+Deuxième
+
+10660, Avenue Royale app. 1 Sainte-Anne-de-Beaupré G0A 3C0
+
+Jobin, Evan
+
+Secondaire
+
+Cinquième
+
+10683, Boulevard Ste-Anne Sainte-Anne-de-Beaupré G0A 3C0
+
+Rosa, Jordanne
+
+Secondaire
+
+Première
+
+10287, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+Rosa, Raphaëlle
+
+Secondaire
+
+Cinquième
+
+10287, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+DOM Sainte-Anne-de-Beaupré Royale (10531)
+Ordre d'ens.
+
+Élève
+
+Cayer Simard, Charles
+
+ARR
+
+Secondaire
+
+Classe
+
+17:32
+Adresse
+
+GPar
+
+Quatrième
+
+Ordre d'ens.
+
+Classe
+
+1
+
+Tel. résidence
+
+10531, Avenue Royale Sainte-Anne-de-Beaupré G0A 3C0
+
+ÉCOLE SECONDAIRE MONT-STE-ANNE (BEAUPRÉ)
+
+Élève
+
+0
+
+GPar
+
+17:36
+
+0
+
+Adresse
+
+12
+
+Tel. résidence
+
+Bernier, Pénélope
+
+Secondaire
+
+Troisième
+
+19, Rue de l'Avalanche Beaupré G0A 1E0
+
+Boucher, Alex
+
+Secondaire
+
+Troisième
+
+26, Rue d'Albertville Saint-Ferréol-les-Neiges G0A 3R0
+
+Couillard, Alexia
+
+Secondaire
+
+Quatrième
+
+75, Rue Notre-Dame Saint-Ferréol-les-Neiges G0A 3R0
+
+Duclos, Charles-Elliot
+
+Secondaire
+
+Deuxième
+
+22, Avenue Dulcos Saint-Tite-des-Caps G0A 4J0
+
+Martin, Edouard
+
+Secondaire
+
+Deuxième
+
+2833, Avenue Royale Saint-Ferréol-les-Neiges G0A 3R0
+
+Matte, Audrey-Kim
+
+Secondaire
+
+Cinquième
+
+22, Rue FIllion Saint-Joachim G0A 3X0
+
+Paquet, Michelle
+
+Secondaire
+
+Quatrième
+
+214, Rue Notre-Dame Saint-Ferréol-les-Neiges G0A 3R0
+
+Paquet, Michelle
+
+Secondaire
+
+Quatrième
+
+218, Rue De Coubertin Saint-Ferréol-les-Neiges G0A 3R0
+
+Paré, Charlotte
+
+Secondaire
+
+Première
+
+3780, Avenue Royale Saint-Ferréol-les-Neiges G0A 3R0
+
+Rompré, Augustine
+
+Secondaire
+
+Cinquième
+
+18, Rue Desjardins Saint-Ferréol-les-Neiges G0A 3R0
+
+Thomassin, Alexandre
+
+Secondaire
+
+Deuxième
+
+2, Rue Thomassin Saint-Joachim G0A 3X0
+
+Tremblay, Ève
+
+Secondaire
+
+Cinquième
+
+6, Rue des Cormorans Beaupré G0A 1E0
+
+ARR
+
+ROYALE / SAINT-LOUIS (BEAUPRÉ)
+
+Élève
+
+Ordre d'ens.
+
+Classe
+
+17:39
+GPar
+
+0
+
+Adresse
+
+Beaulieu, Hugo
+
+Secondaire
+
+Quatrième
+
+29, Rue des Érables Beaupré G0A 1E0
+
+Brodeur, Maély
+
+Secondaire
+
+Cinquième
+
+19, Rue du Sumac Beaupré G0A 1E0
+
+Dufour Coulombe, Océanne
+
+Secondaire
+
+Quatrième
+
+240, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+11
+
+Tel. résidence
+
+GÉOBUS 4.0.364.9
+INTERNET
+
+Transporteur :
+
+C.S. des Premières-Seigneuries
+Impression des parcours
+Transporteurs
+
+AUTOBUS BEAUPRÉ INC.
+
+Circuit :
+
+Page
+15
+2024-09-26 10:12
+2024-2025 (0)
+
+223 PM 51504
+
+(suite)
+ARR
+
+ROYALE / SAINT-LOUIS (BEAUPRÉ)
+
+Élève
+
+Ordre d'ens.
+
+Classe
+
+GPar
+
+(suite)
+
+Heure
+
+Emb.
+
+Déb.
+
+17:39
+
+0
+
+11
+
+Adresse
+
+Fortin, Émile
+
+Secondaire
+
+Troisième
+
+57, Rue Sainte-Croix Beaupré G0A 1E0
+
+Fortin, Nathaniel
+
+Secondaire
+
+Cinquième
+
+57, Rue Sainte-Croix Beaupré G0A 1E0
+
+Fraysse, William
+
+Secondaire
+
+Cinquième
+
+11468, Avenue Royale Beaupré G0A 1E0
+
+Gomez Moreno, Karen Andrea
+
+Secondaire
+
+Cinquième
+
+11075, Avenue Royale Beaupré G0A 1E0
+
+Mainguy, Liam
+
+Secondaire
+
+Troisième
+
+208, Rue Saint-Jean-Baptiste Beaupré G0A 1E0
+
+Martel-Pageau, Jordan
+
+Secondaire
+
+Première
+
+11147, Avenue Royale Beaupré G0A 1E0
+
+Rosa, Mathys
+
+Secondaire
+
+Troisième
+
+215, Rue de la Colline app. 3 Beaupré G0A 1E0
+
+Tremblay, Alexane
+
+Secondaire
+
+Cinquième
+
+40, Rue Cormier Beaupré G0A 1E0
+
+Tel. résidence
+
+
