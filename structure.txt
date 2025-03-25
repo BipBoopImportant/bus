@@ -1,0 +1,78 @@
+here is the structure of a typical circuits file:
+
+[name of transportation management company] [software version]                          [name of school board]                                                                                                          [page number]
+[type of document]                                                                         [type of notice]                                                                                 [date and time the document was produced]
+                                                                                        [entity this concerns]                                                                                            [school year this concerns]
+
+
+[type of itinirary: AM/PM]  [id of itinirary]                           [circuit: number]                            [time the itinirary starts: time]          [Distance of the whole itinirary: number]
+[transportation company: name of company]                                                                            [time the itinirary ends: time]            [total occupancy for this itinirary: number]
+
+[Service point/where the journey starts]                                   
+[type of point: ARR, BAT, DOM, TRSF, TRF]  [location of point: value]   [precise time when the driver needs to be at this location]    [number of students to pick up: number] [number of students that leave at this point: number]
+
+[student's name]       [Education level]   [Grade level and year within cycle]  [checkmark indicating if split custody or not]   [full address]  [telephone number if any]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Precisions:
+
+as long as the following pages are describing the same itinirary and circuit, the structure will change to the following: 
+
+[name of transportation management company] [software version]                          [name of school board]                                                                                                          [page number]
+[type of document]                                                                         [type of notice]                                                                                 [date and time the document was produced]
+                                                                                        [entity this concerns]                                                                                            [school year this concerns]
+
+
+[name of transporation company: name]                                                                          [circuit: number] [type: AM/PM] [id of itinirary]                               [following page written in between ()] 
+[following page writtin in between ()]   
+
+[type of point: ARR, BAT, DOM, TRSF, TRF]  [location of point: value]   [precise time when the driver needs to be at this location]    [number of students to pick up: number] [number of students that leave at this point: number]
+
+[student's name]       [Education level]   [Grade level and year within cycle]  [checkmark indicating if split custody or not]   [full address]  [telephone number if any]
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Then when a new itinirary starts the first structure will come back.
+
+As for the following abbreviations here are their respective meanings:
+ARR: Arrêt (Bus Stop)
+BAT: Bâtiment (Building/School)
+Emb: Embarquement (Boarding)
+Déb: Débarquement (Total on board)
+GPar: Garde partagée (Split custody)
+TRSF/TRF: Point de transfer (Connection locations)
+
+As for the value of the location point, it varies according to the abbreviation that comes before it such that:
+
+ARR: means the value is of this format: street name/street name and represents an intersection.
+BAT: means the following format: name of school.
+TRSF/TRF: usually means the name of a landmark or building.
+
+here is the typical structure of a notice of circuit's modifications:
+
+[name of transportation management company] [software version]                          [name of school board]                                                                                                          [page number]
+[type of document]                                                                         [type of notice]                                                                                 [date and time the document was produced]
+                                                                                        [circuit modification]                                                                                            [school year this concerns]
+
+
+[circuit: number] [name of transportation company(company registration number)]              [type of vehicle: value]                                    [productive distance: value]  [non-productive distance: value] [total: value]
+[id of transport contract in the format: CXXXXXXXXX] [name of transportation company]        [contract number: numerical value] [number of rows: value]  [duration: value]             [duration: value]                [total: value]
+
+[Circuit's itiniraries:]
+ [asterisk indicating to be modified or not]   [Type: AM/PM]   [ID]  [Starting point/End point]                                                                   [Start time]  [End time]  [Distance] [Duration]  [Maximal occupancy] 
+
+[Added itiniraries or modified ones:]
+
+ [Type: AM/PM] [ID] [Starting point/End point]                                                                                                                    [Start: time] [Distance: value]   [Total occupancy: value]
+                                                                                                                                                                  [End: time]   [Duration: value]   [Maximal occupancy: value]
+
+[Type of point: ARR, BAT, DOM, TRSF, TRF] [Extension number formatted as: EXTXXX] [location of point(general area)]    [time to be at said point] [number of students that get in: value] [number of students that get out: value]
+
+[+/-: + meaning add this information to the itinirary, - remove it]  [name of student]        [Education level]     [checkmark indicating if split custody or not] [Full address]
+
+[Type of point: ARR, BAT, DOM, TRSF, TRF] [Extension number formatted as: EXTXXX] [location of point(general area)]    [time to be at said point] [number of students that get in: value] [number of students that get out: value]
+
+[+/-: + meaning add this information to the itinirary, - remove it]  [name of student]        [Education level]     [checkmark indicating if split custody or not] [Full address]
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
