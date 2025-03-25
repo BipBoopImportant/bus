@@ -3,7 +3,7 @@ here is the structure of a typical circuits file:
 [name of transportation management company] [software version]                          [name of school board]                                                                                                          [page number]
 [type of document]                                                                         [type of notice]                                                                                 [date and time the document was produced]
                                                                                         [entity this concerns]                                                                                            [school year this concerns]
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [type of itinirary: AM/PM]  [id of itinirary]                           [circuit: number]                            [time the itinirary starts: time]          [Distance of the whole itinirary: number]
 [transportation company: name of company]                                                                            [time the itinirary ends: time]            [total occupancy for this itinirary: number]
@@ -55,7 +55,7 @@ here is the typical structure of a notice of circuit's modifications:
 [type of document]                                                                         [type of notice]                                                                                 [date and time the document was produced]
                                                                                         [circuit modification]                                                                                            [school year this concerns]
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [circuit: number] [name of transportation company(company registration number)]              [type of vehicle: value]                                    [productive distance: value]  [non-productive distance: value] [total: value]
 [id of transport contract in the format: CXXXXXXXXX] [name of transportation company]        [contract number: numerical value] [number of rows: value]  [duration: value]             [duration: value]                [total: value]
 
