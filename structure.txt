@@ -1,5 +1,3 @@
-here is the structure of a typical circuits file:
-
 [name of transportation management company] [software version]                          [name of school board]                                                                                                          [page number]
 [type of document]                                                                         [type of notice]                                                                                 [date and time the document was produced]
                                                                                         [entity this concerns]                                                                                            [school year this concerns]
@@ -76,3 +74,221 @@ here is the typical structure of a notice of circuit's modifications:
 [+/-: + meaning add this information to the itinirary, - remove it]  [name of student]        [Education level]     [checkmark indicating if split custody or not] [Full address]
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+graph TD
+    A[PDF Document] --> B1[Route Printout]
+    A --> B2[Circuit Modification Notice]
+    
+    B1 --> C1[Header Section]
+    C1 --> D1[Software Information]
+    C1 --> D2[School Board]
+    C1 --> D3[Document Type]
+    C1 --> D4[Generation Date]
+    
+    B1 --> C2[Route Information]
+    C2 --> D5[Circuit Number]
+    C2 --> D6[Direction AM/PM]
+    C2 --> D7[Date]
+    C2 --> D8[Time Period]
+    C2 --> D9[Start/End Times]
+    C2 --> D10[Distance]
+    C2 --> D11[Occupancy]
+    
+    B1 --> C3[Company Information]
+    C3 --> D12[Transporter Name]
+    C3 --> D13[Company Code]
+    
+    B1 --> C4[Stop List]
+    C4 --> D14[Stop Records]
+    D14 --> E1[Time]
+    D14 --> E2[Location]
+    D14 --> E3[Student Count]
+    
+    B1 --> C5[Student Information]
+    C5 --> D15[Student Records]
+    D15 --> E4[Full Name]
+    D15 --> E5[Education Level]
+    D15 --> E6[Grade Level]
+    D15 --> E7[Address]
+    D15 --> E8[Postal Code]
+    D15 --> E9[Special Requirements]
+    
+    B2 --> F1[Header Section]
+    F1 --> G1[Software Information]
+    F1 --> G2[School Board]
+    F1 --> G3[Document Type - Modification Notice]
+    F1 --> G4[Generation Date]
+    
+    B2 --> F2[Circuit Identification]
+    F2 --> G5[Circuit Number]
+    F2 --> G6[Transport Company]
+    F2 --> G7[Vehicle Type]
+    F2 --> G8[Contract Number]
+    F2 --> G9[Vehicle Capacity]
+    
+    B2 --> F3[Distance Summary]
+    F3 --> G10[Productive Distance]
+    F3 --> G11[Unproductive Distance]
+    F3 --> G12[Total Duration]
+    
+    B2 --> F4[Existing Routes]
+    F4 --> G13[Route Listings]
+    G13 --> H1[Type AM/PM]
+    G13 --> H2[ID]
+    G13 --> H3[Service Points]
+    G13 --> H4[Times]
+    G13 --> H5[Distance]
+    
+    B2 --> F5[Modified Routes]
+    F5 --> G14[Route Details]
+    G14 --> H6[Type AM/PM]
+    G14 --> H7[ID]
+    G14 --> H8[Start/End Points]
+    G14 --> H9[Times]
+    G14 --> H10[Distance]
+    G14 --> H11[Duration]
+    G14 --> H12[Occupancy]
+    
+    F5 --> G15[Stop Details]
+    G15 --> H13[Stop Type]
+    G15 --> H14[Extension Number]
+    G15 --> H15[Location]
+    G15 --> H16[Time]
+    G15 --> H17[Student Count]
+    
+    F5 --> G16[Student Modifications]
+    G16 --> H18[Add/Remove Indicator]
+    G16 --> H19[Student Name]
+    G16 --> H20[Education Level]
+    G16 --> H21[Split Custody Indicator]
+    G16 --> H22[Address]
+Document Type Identification
+Route Printout (223 (1).pdf)
+
+Title: "Impression des parcours - Transporteurs"
+Purpose: Displays complete route information for drivers
+Circuit Modification Notice (223.pdf)
+
+Title: "Avis aux transporteurs - Changements des circuits"
+Purpose: Notifies of changes to existing bus routes
+Key Element Types
+Location Point Types
+ARR: Arrêt (Bus Stop) - Format: street name/street name (intersection)
+BAT: Bâtiment (Building/School) - Format: name of school
+DOM: Domicile (Home address)
+TRSF/TRF: Point de transfer (Connection locations) - Format: landmark or building name
+Student Information Indicators
+Emb: Embarquement (Number boarding at stop)
+Déb: Débarquement (Running total on bus)
+GPar: Garde partagée (Split custody)
+Modification Indicators
++: Add this information to the itinerary
+-: Remove this information from the itinerary
+*: Indicates item to be modified (in listings)
+Parsing Recommendations
+Header Detection:
+
+Look for "GÉOBUS" followed by version number at the top
+Identify document type by searching for "Impression des parcours" or "Avis aux transporteurs"
+Section Identification:
+
+Circuit information starts with "Circuit: [number]"
+Company information contains "AUTOBUS" or transporteur code
+Route sections contain "AM" or "PM" identifiers
+Table Structure:
+
+Student lists are typically in tabular format with consistent column widths
+Stop information follows pattern: [Type][Location][Time][Student counts]
+Data Extraction Special Cases:
+
+Extension numbers are in format "EXT[3 digits]"
+Times are in 24-hour format (HH:MM)
+Addresses may span multiple lines
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│                         GÉOBUS 4.0.378.4                                │
+│              C.S. des Premières-Seigneuries                             │
+│            Avis aux transporteurs - Changements des circuits            │
+└─────────────────────────────────┬───────────────────────────────────────┘
+                                 │
+     ┌─────────────────────────────────────────────────┐
+     │                                                 │
+     ▼                                                 ▼
+┌────────────────────────────┐             ┌────────────────────────────┐
+│    DOCUMENT IDENTIFICATION │             │   TRANSPORTATION COMPANY   │
+├────────────────────────────┤             ├────────────────────────────┤
+│• System: GÉOBUS 4.0.378.4  │             │• Name: AUTOBUS BEAUPRÉ INC.│
+│• Circuit: 223              │             │• Phone: 823-2487           │
+│• Document: Avis aux        │             │• Code: C000003405          │
+│  transporteurs             │             │• Contract: 3405            │
+│• Generated: 2025-02-19 9:21│             │• Vehicle: Autobus          │
+│• School Year: 2024-2025    │             │• Rows (Capacity): 12       │
+└──────────────┬─────────────┘             └─────────────┬──────────────┘
+               │                                         │
+               └─────────────────┬─────────────────────┘
+                                 │
+                                 ▼
+┌─────────────────────────────────────────────────────────────────────────┐
+│                   CIRCUIT ROUTES OVERVIEW                               │
+├─────────────────────────────────────────────────────────────────────────┤
+│                                                                         │
+│  ┌───────────────────┐  ┌───────────────────┐  ┌────────────────────┐  │
+│  │ ROUTE 1 (EXISTING)│  │ ROUTE 2 (MODIFIED)│  │ ROUTE 3 (MODIFIED) │  │
+│  ├───────────────────┤  ├───────────────────┤  ├────────────────────┤  │
+│  │• ID: AM 03401     │  │• ID: AM 51504     │  │• ID: PM 51504      │  │
+│  │• Service:         │  │• Service:         │  │• Service:          │  │
+│  │  BEAUX-PRÉS-      │  │  ACADÉMIE/SAMUEL -│  │  ACADÉMIE/SAMUEL - │  │
+│  │  FALAISE / ROLAND │  │  COTE BEAUPRÉ     │  │  COTE BEAUPRÉ      │  │
+│  │• Start: 07:08     │  │• Start: 07:50     │  │• Start: 16:22      │  │
+│  │• End: 07:45       │  │• End: 09:10       │  │• End: 17:39        │  │
+│  │• Distance: 10500 m│  │• Distance: 39245 m│  │• Distance: 41514 m │  │
+│  │• Duration: 37.45  │  │• Duration: 80.11  │  │• Duration: 77.29   │  │
+│  │  minutes          │  │  minutes          │  │  minutes           │  │
+│  │• Max Occupancy: 55│  │• Max Occupancy: 44│  │• Max Occupancy: 44 │  │
+│  └───────────────────┘  └────────┬──────────┘  └─────────┬──────────┘  │
+│                                  │                       │             │
+└──────────────────────────────────┼───────────────────────┼─────────────┘
+                                   │                       │
+           ┌─────────────────────┐ │                       │ ┌─────────────────────┐
+           │                     │ │                       │ │                     │
+           ▼                     │ ▼                       │ ▼                     │
+┌────────────────────┐ ┌─────────────────────┐ ┌─────────────────────┐ ┌────────────────────┐
+│ PRODUCTIVITY STATS │ │ AM ROUTE 2 DETAILS  │ │ PM ROUTE 3 DETAILS  │ │  DISTANCE SUMMARY  │
+├────────────────────┤ │  (MODIFIED)         │ │  (MODIFIED)         │ ├────────────────────┤
+│• Productive Dist:  │ ├─────────────────────┤ ├─────────────────────┤ │• Productive: 91259 │
+│  91259             │ │• Stops:             │ │• Stops:             │ │• Unproductive: 2685│
+│• Unproductive Dist:│ │  1. EXT132 (07:50)  │ │  1. EXT102 (16:57)  │ │• Total: 93944      │
+│  2685              │ │     ROYALE / SAINT- │ │     ÉGLISE L'ANGE-  │ │• Total Duration:   │
+│• Total Minutes:    │ │     LOUIS (BEAUPRÉ) │ │     GARDIEN         │ │  204.09 minutes    │
+│  204.09            │ │  2. EXT102 (08:43)  │ │  2. EXT132 (17:39)  │ │                    │
+│                    │ │     ÉGLISE L'ANGE-  │ │     ROYALE / SAINT- │ │                    │
+│                    │ │     GARDIEN         │ │     LOUIS (BEAUPRÉ) │ │                    │
+└────────────────────┘ └────────┬────────────┘ └────────┬────────────┘ └────────────────────┘
+                               │                        │
+                               │                        │
+                               ▼                        ▼
+                  ┌───────────────────────────────────────────────────┐
+                  │            STUDENT INFORMATION                     │
+                  ├───────────────────────────────────────────────────┤
+                  │• Student: Drouin, Mathéo                          │
+                  │• Education Level: Secondaire                       │
+                  │• AM Pickup: ROYALE / SAINT-LOUIS (BEAUPRÉ)        │
+                  │  11323, Avenue Royale Beaupré G0A 1E0             │
+                  │• PM Dropoff: ROYALE / SAINT-LOUIS (BEAUPRÉ)       │
+                  │  11323, Avenue Royale Beaupré G0A 1E0             │
+                  │                                                    │
+                  │• Transfer Point: ÉGLISE L'ANGE-GARDIEN            │
+                  │  6354, Avenue Royale L'Ange-Gardien G0A 2K0       │
+                  │  (morning and afternoon)                           │
+                  └───────────────────────────────────────────────────┘
+
+- Parse both route schedules and change notifications from French PDFs, handling multiple routes per document and same-ID routes at different times (AM/PM).
+
+- Extract data into this structure:
+
+- Document metadata (title, date, version)
+- Transportation provider details
+- Routes with ID, type (AM/PM), schedule, metrics
+- Stops with intelligent stop type classification
+- Student information with proper address association
+- Implement specialized parsing for stop locations:
+- Associate stops with nearby student addresses
